@@ -1,0 +1,6 @@
+[submodule "Verba"]
+	path = Verba
+	url = git@github.com:Contextual-Genticmen/Verba.git
+[submodule "matt-n8n-starter-kit"]
+	path = matt-n8n-starter-kit
+	url = git@github.com:supmo668/self-hosted-ai-starter-kit.git
