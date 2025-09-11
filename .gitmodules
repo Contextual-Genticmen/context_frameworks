@@ -4,3 +4,6 @@
 [submodule "matt-n8n-starter-kit"]
 	path = matt-n8n-starter-kit
 	url = git@github.com:supmo668/self-hosted-ai-starter-kit.git
+[submodule "elysia"]
+	path = elysia
+	url = git@github.com:Contextual-Genticmen/elysia.git
